@@ -1,7 +1,7 @@
 .image {
     
     float: right;
-    width: 190px;
+    width: 210px;
     height: 90px;
     top: 40px;
     margin-top: 10px;
@@ -26,22 +26,23 @@
 
 }
 .obj{
-    color:#ebf7f8;
+    color:black;
     float: left;
     margin-left: 20px;
 
 }
 
 .des{
-    color: black;
+    color:black;
     float: right;
-    margin-right: 100px;
+    margin-right: 300px;
 }
 .col{
     color: black;
     float: right;
     margin-bottom: 30px;
-    margin-right: 200px;
+    margin-left: 200px;
+    size: 50px;;
 }
 #stock{
     color: black;
@@ -62,7 +63,18 @@
     margin-top: 10px;
    display: flex;
 }
-.po{
+.work{
+   color:palevioletred;
+    float: left;
+    width: 210px;
+    height: 90px;
+    top: 40px;
+    margin-top: 10px;
+    margin-right: 600px;
+    font-size: xx-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
 
 
 }
