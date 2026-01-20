@@ -33,18 +33,18 @@
 }
 
 .des{
-    color: rgb(5, 156, 123);
+    color: black;
     float: right;
     margin-right: 100px;
 }
 .col{
-    color: rgba(7, 159, 90, 0.662);
+    color: black;
     float: right;
     margin-bottom: 30px;
     margin-right: 200px;
 }
 #stock{
-    color: blue;
+    color: black;
 }
 .sac{
     float:inline-end;
