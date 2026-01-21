@@ -80,79 +80,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
     
-    .habit{
-    position: absolute;
-    top: 50px;
-    left: 100px;
-}
-.acces{
-    position: absolute;
-    top: 50px;
-    right: 150px;
-}
-.dessous{
-    position: absolute;
-    top: 50px;
-    left: 500px;
-}
-.image1{
-    width: 1200px;
-    height: 300px;
-}
-.image2{
-    position: relative;
-}
-.image3{
-    position: relative;
-    left: 50px;
-}
-.image4{
-    position: relative;
-    left: 100px;
-}
-.image5{
-    position: relative;
-    left: 200px;
-}
-.image6{
-    position: relative;
-}
-.image7{
-    position: relative;
-}
-.image8{
-    position: relative;
-}
-.montre{
-    position: absolute;
-    top: 500px;
-}
-.patalon{
-    position: absolute;
-    top: 500px; 
-    right: 690px;
-    color: maroon;
-}
-.robe{
-    position: absolute;
-    top: 500px;
-    right: 400px;
-}
-.sous{
-    position: absolute;
-    top: 500px;
-    right: 90px;
-    color: maroon;
-}
-.sac{
-    position: absolute;
-    top: 1050px;
-    color: maroon;
-}
-.boucle{
-    position: absolute;
-    top: 1050px;
-    right: 500px;
+
 
 }
 .po{
@@ -175,17 +103,6 @@
     bottom: 0px;
     
     
-}
-.ensemble{
-    position: absolute;
-    top: 1050px;
-    right: 200px; 
-    color: maroon;
-}
-
-
 
 
 }
-
-
